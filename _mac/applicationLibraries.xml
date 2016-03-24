@@ -1,0 +1,94 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 2.7.10 (/usr/bin/python) interpreter library">
+      <CLASSES>
+        <root url="file:///Library/Python/2.7/site-packages/bottle-0.12.8-py2.7.egg" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
+        <root url="file:///Library/Python/2.7/site-packages" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/python_stubs/348993582" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Python/2.7/site-packages/bottle-0.12.8-py2.7.egg" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
+        <root url="file:///Library/Python/2.7/site-packages" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/python_stubs/348993582" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7.10 virtualenv at ~/Dropbox/Programs/EmailParserWithVEnvPython/VEnvMac interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Dropbox/Programs/EmailParserWithVEnvPython/VEnvMac/lib/python2.7" />
+        <root url="file://$USER_HOME$/Dropbox/Programs/EmailParserWithVEnvPython/VEnvMac/lib/python2.7/lib-dynload" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/Dropbox/Programs/EmailParserWithVEnvPython/VEnvMac/lib/python2.7/site-packages" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/python_stubs/1828825818" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/Dropbox/Programs/EmailParserWithVEnvPython/VEnvMac/lib/python2.7" />
+        <root url="file://$USER_HOME$/Dropbox/Programs/EmailParserWithVEnvPython/VEnvMac/lib/python2.7/lib-dynload" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/Dropbox/Programs/EmailParserWithVEnvPython/VEnvMac/lib/python2.7/site-packages" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/python_stubs/1828825818" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7.10 virtualenv at ~/Dropbox/Programs/pa-emailparser/VEnvMac interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Python 2.7.10 virtualenv at ~/Dropbox/Programs/PythonEmailParserWithVirtualEnv/VEnvMac interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Dropbox/Programs/PythonEmailParserWithVirtualEnv/VEnvMac/lib/python2.7" />
+        <root url="file://$USER_HOME$/Dropbox/Programs/PythonEmailParserWithVirtualEnv/VEnvMac/lib/python2.7/lib-dynload" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/Dropbox/Programs/PythonEmailParserWithVirtualEnv/VEnvMac/lib/python2.7/site-packages" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/python_stubs/-542933785" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/Dropbox/Programs/PythonEmailParserWithVirtualEnv/VEnvMac/lib/python2.7" />
+        <root url="file://$USER_HOME$/Dropbox/Programs/PythonEmailParserWithVirtualEnv/VEnvMac/lib/python2.7/lib-dynload" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/Dropbox/Programs/PythonEmailParserWithVirtualEnv/VEnvMac/lib/python2.7/site-packages" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/python_stubs/-542933785" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
