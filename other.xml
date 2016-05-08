@@ -47,9 +47,13 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/0.10.33/bin/node" />
+  </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/bin/node" version="4.2.2" last-modified="1446580417000" />
-    <node-interpreter path="/usr/local/Cellar/node/0.10.33/bin/node" version="0.10.33" last-modified="1447575169000" />
+    <node-interpreter path="/usr/local/bin/node" version="4.4.1" last-modified="1458674910000" />
+    <node-interpreter path="/usr/local/Cellar/node/0.10.33/bin/node" version="(Does not exist)" last-modified="1462711374844" />
   </component>
   <component name="PyTestFrameworkService">
     <option name="SDK_TO_PYTEST">
