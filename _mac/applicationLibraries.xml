@@ -31,7 +31,7 @@
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/python_stubs/348993582" />
       </SOURCES>
     </library>
-    <library name="Python 2.7.10 virtualenv at ~/Dropbox/Programs/EmailParserWithVEnvPython/VEnvMac interpreter library">
+    <library name="Python 2.7.10 virtualenv at ~/Dropbox/Programs/pa-emailparser/VEnvMac (2) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/Dropbox/Programs/EmailParserWithVEnvPython/VEnvMac/lib/python2.7" />
         <root url="file://$USER_HOME$/Dropbox/Programs/EmailParserWithVEnvPython/VEnvMac/lib/python2.7/lib-dynload" />
@@ -58,7 +58,12 @@
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/python_stubs/1828825818" />
       </SOURCES>
     </library>
-    <library name="Python 2.7.10 virtualenv at ~/Dropbox/Programs/pa-emailparser/VEnvMac interpreter library">
+    <library name="Python 2.7.10 virtualenv at ~/Dropbox/Programs/pa-emailparser/VEnvMac 2nd interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Python 2.7.10 virtualenv at ~/Dropbox/Programs/pa-emailparser/VEnvMac 2nd interpreter library">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
