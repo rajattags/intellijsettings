@@ -3,6 +3,8 @@
     <option name="customScope" value="File '/Users/rajattyagi/Dropbox/Programs/pa-emailparser/server-emailparser.py'" />
     <option name="defaultScopeName" value="File '/Users/rajattyagi/Dropbox/Programs/pa-emailparser/server-emailparser.py'" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '/Users/rajattyagi/Dropbox/Programs/pa-emailparser/server-emailparser.py'" />
   </component>
