@@ -36,6 +36,13 @@
   </tool>
   <tool name="nodedebugger localhost" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
+      <option name="COMMAND" value="$USER_HOME$/Dropbox/Programs/pa-scheduler-kue-rediscluster/scheduler-service-debugger localhost.sh" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Dropbox/Programs/pa-scheduler-kue-rediscluster" />
+    </exec>
+  </tool>
+  <tool name="nodedebugger docker production" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
       <option name="COMMAND" value="$USER_HOME$/Dropbox/Programs/pa-scheduler-kue-rediscluster/scheduler-service-dockerbuilddebugger.sh" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/Dropbox/Programs/pa-scheduler-kue-rediscluster" />
