@@ -63,11 +63,6 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="Python 2.7.10 virtualenv at ~/Dropbox/Programs/pa-emailparser/VEnvMac 2nd interpreter library">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
     <library name="Python 2.7.10 virtualenv at ~/Dropbox/Programs/PythonEmailParserWithVirtualEnv/VEnvMac interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/Dropbox/Programs/PythonEmailParserWithVirtualEnv/VEnvMac/lib/python2.7" />
