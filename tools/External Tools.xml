@@ -69,4 +69,11 @@
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/Dropbox/Programs/pa-emailparser/forge" />
     </exec>
   </tool>
+  <tool name="nattyrecurrent-service-dockerbuild" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/Dropbox/Programs/pa-recurrent-nattydatetime/recurrentparser-service-dockerbuild.sh" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Dropbox/Programs/pa-recurrent-nattydatetime" />
+    </exec>
+  </tool>
 </toolSet>
