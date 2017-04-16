@@ -83,4 +83,11 @@
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/Dropbox/Programs/pa-city-timezones" />
     </exec>
   </tool>
+  <tool name="rediscluster-service-1" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/Dropbox/Programs/pa-redis-cluster/rediscluster7000-1-service-dockerbuild.sh" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Dropbox/Programs/pa-redis-cluster" />
+    </exec>
+  </tool>
 </toolSet>
